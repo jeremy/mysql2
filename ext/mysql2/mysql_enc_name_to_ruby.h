@@ -1,4 +1,4 @@
-/* C code produced by gperf version 3.0.4 */
+/* ANSI-C code produced by gperf version 3.1 */
 /* Command-line: gperf  */
 /* Computed positions: -k'1,3,$' */
 
@@ -26,7 +26,7 @@
       && ('w' == 119) && ('x' == 120) && ('y' == 121) && ('z' == 122) \
       && ('{' == 123) && ('|' == 124) && ('}' == 125) && ('~' == 126))
 /* The character set is not based on ISO-646.  */
-error "gperf generated tables don't work with this execution character set. Please report a bug to <bug-gnu-gperf@gnu.org>."
+#error "gperf generated tables don't work with this execution character set. Please report a bug to <bug-gperf@gnu.org>."
 #endif
 
 struct mysql2_mysql_enc_name_to_rb_map { const char *name; const char *rb_name; };
@@ -40,9 +40,7 @@ inline
 #endif
 #endif
 static unsigned int
-mysql2_mysql_enc_name_to_rb_hash (str, len)
-     register const char *str;
-     register unsigned int len;
+mysql2_mysql_enc_name_to_rb_hash (register const char *str, register size_t len)
 {
   static const unsigned char asso_values[] =
     {
@@ -76,16 +74,8 @@ mysql2_mysql_enc_name_to_rb_hash (str, len)
   return len + asso_values[(unsigned char)str[2]] + asso_values[(unsigned char)str[0]] + asso_values[(unsigned char)str[len - 1]];
 }
 
-#ifdef __GNUC__
-__inline
-#if defined __GNUC_STDC_INLINE__ || defined __GNUC_GNU_INLINE__
-__attribute__ ((__gnu_inline__))
-#endif
-#endif
 const struct mysql2_mysql_enc_name_to_rb_map *
-mysql2_mysql_enc_name_to_rb (str, len)
-     register const char *str;
-     register unsigned int len;
+mysql2_mysql_enc_name_to_rb (register const char *str, register size_t len)
 {
   enum
     {
@@ -122,7 +112,7 @@ mysql2_mysql_enc_name_to_rb (str, len)
       {"macroman", "macRoman"},
       {"dec8", NULL},
       {"utf32", "UTF-32"},
-      {"latin1", "ISO-8859-1"},
+      {"latin1", "UTF-8"},
       {"utf8mb4", "UTF-8"},
       {"hp8", NULL},
       {"swe7", NULL},
@@ -154,9 +144,9 @@ mysql2_mysql_enc_name_to_rb (str, len)
 
   if (len <= MAX_WORD_LENGTH && len >= MIN_WORD_LENGTH)
     {
-      register int key = mysql2_mysql_enc_name_to_rb_hash (str, len);
+      register unsigned int key = mysql2_mysql_enc_name_to_rb_hash (str, len);
 
-      if (key <= MAX_HASH_VALUE && key >= 0)
+      if (key <= MAX_HASH_VALUE)
         {
           register const char *s = wordlist[key].name;
 
