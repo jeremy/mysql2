@@ -62,6 +62,7 @@ static void rb_mysql_result_mark(void * wrapper) {
   mysql2_result_wrapper * w = wrapper;
   if (w) {
     rb_gc_mark(w->fields);
+    rb_gc_mark(w->fieldTypes);
     rb_gc_mark(w->rows);
     rb_gc_mark(w->encoding);
     rb_gc_mark(w->client);
