@@ -1,0 +1,59 @@
+spec/mysql2/client_spec.rb
+  s_83db48657e2baf::t_d36348d3257d65 673-677
+  s_83db48657e2baf::t_ceed9cbc6faf47 731-743
+  s_83db48657e2baf::t_e55b3819c21481 993-1002
+.rubocop_todo.yml
+  s_83db48657e2baf::t_f88694abc1faec 42
+lib/mysql2/client.rb
+  s_83db48657e2baf::t_0af404e1a82ab3 147-154,156
+  s_83db48657e2baf::t_9a6a6e0692841e 155
+ext/mysql2/result.c
+  s_83db48657e2baf::t_ab1c7f780e400b 1842
+  s_83db48657e2baf::t_9606904831e7a2 1714-1715
+  s_83db48657e2baf::t_ddd87c5d303b92 86-87
+  s_83db48657e2baf::t_065b42d5e8b845 99
+  s_83db48657e2baf::t_63421e36250590 1699-1713,1716-1734,1740-1741,1743-1745
+  s_83db48657e2baf::t_20139fbd1ca0a0 1785
+  s_83db48657e2baf::t_b341329848a640 1735-1739,1742
+  s_83db48657e2baf::t_634b36538d5e6c 1870-1872
+  s_83db48657e2baf::t_8dfe8ee5a0ca65 245
+  s_83db48657e2baf::t_9614ddf83e0410 1797-1801
+  s_83db48657e2baf::t_9d94656f28a42c 556-579,581
+  s_83db48657e2baf::t_8a271088ddd2d6 383
+  s_83db48657e2baf::t_7ca13689b903be 1686-1688
+  s_83db48657e2baf::t_25a99a83a2f207 332
+  s_83db48657e2baf::t_7db5fbc03722b6 1787-1792
+  s_83db48657e2baf::t_1a32402c25de93 1118-1120
+  s_83db48657e2baf::t_dd5f69070d40fd 854-856
+  s_83db48657e2baf::t_7f1ccc90d7868e 10-22
+  s_83db48657e2baf::t_c5d39b15c0df90 72-75
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_10291d694e70a4 1157-1161,1173-1203
+  s_83db48657e2baf::t_a2e12021c4ea9e 1162-1172
+  s_83db48657e2baf::t_43bea6591e2082 976-983,994,1012-1029,1033-1144
+  s_83db48657e2baf::t_1090d774d20718 984-989,991-993,995-1011
+  s_83db48657e2baf::t_9320661b3a6b0c 990
+  s_83db48657e2baf::t_5d12a54a66be3d 1030-1032
+spec/mysql2/statement_spec.rb
+  s_83db48657e2baf::t_251cf1102d8b9a 771-782
+ext/mysql2/result.h
+  s_83db48657e2baf::t_b98ac29d21dbea 39-42
+  s_83db48657e2baf::t_fe689c10b4d4c4 22-24
+  s_83db48657e2baf::t_7bc37afd121fe6 25-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b228599849545d7e6b871087181dc4a0562470e3",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
