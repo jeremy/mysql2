@@ -11,6 +11,8 @@ ext/mysql2/result.c
   s_83db48657e2baf::t_fb6e841d4f1c48 1945-1948
   s_83db48657e2baf::t_e5733c1e7561c3 1795-1796
   s_83db48657e2baf::t_18713d0a90c0f5 1658-1659,1661,1672-1673,1685-1698,1700-1721,1723-1755,1757-1763
+  s_c44e1468859747::t_ca3955b12ea48d 1674-1682
+  s_c44e1468859747::t_d1d024e0d5dddb 1699,1722
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -25,6 +27,14 @@ ext/mysql2/result.c
         "model": "claude-fable-5"
       },
       "human_author": null
+    },
+    "s_c44e1468859747": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52705fa5-dbc4-4f03-9ed3-bac90e613a01",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
     }
   }
 }
