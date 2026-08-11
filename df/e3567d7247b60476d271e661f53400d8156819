@@ -20,6 +20,8 @@ ext/mysql2/result.c
   s_83db48657e2baf::t_f95c5342fb57d6 1325
   s_83db48657e2baf::t_63342664a56e7f 1305-1307
   s_83db48657e2baf::t_947c8e1558b044 1353-1357
+  s_c44e1468859747::t_2082fb4cd3a74a 1766,1776-1786
+  s_c44e1468859747::t_68116ffeeb54bd 97
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -31,6 +33,14 @@ ext/mysql2/result.c
       "agent_id": {
         "tool": "claude",
         "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    },
+    "s_c44e1468859747": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52705fa5-dbc4-4f03-9ed3-bac90e613a01",
         "model": "claude-fable-5"
       },
       "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
