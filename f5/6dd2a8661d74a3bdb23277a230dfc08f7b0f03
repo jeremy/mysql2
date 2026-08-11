@@ -1,0 +1,40 @@
+ext/mysql2/result.c
+  s_83db48657e2baf::t_212048ef8594a2 59-69,75
+  s_83db48657e2baf::t_be28cba2849cd3 1188
+  s_83db48657e2baf::t_f95c5342fb57d6 1253
+  s_83db48657e2baf::t_63342664a56e7f 1233-1235
+  s_83db48657e2baf::t_bdf384421b5e0a 1653-1654,1656
+  s_83db48657e2baf::t_f2a7ac2d7a0d73 1679-1689
+  s_83db48657e2baf::t_b87904cecc3b8a 1386-1390
+  s_83db48657e2baf::t_4b48b4bad7ee95 1907
+  s_83db48657e2baf::t_2b30cb70e5f55e 1311-1316
+  s_83db48657e2baf::t_21f3a880917df2 95
+  s_83db48657e2baf::t_6a9f0a09765521 1286
+  s_83db48657e2baf::t_7bec2c7d0ed760 1711-1714
+  s_83db48657e2baf::t_bae4f8d778099c 1245-1252,1254-1255
+  s_83db48657e2baf::t_947c8e1558b044 1281-1285
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_03ca6547047cfa 1361
+  s_83db48657e2baf::t_59cbe6e436bb0d 1316-1360,1362-1392,1395-1492,1494-1562,1564-1566
+  s_83db48657e2baf::t_2e5fae1b879e8d 1393-1394
+  s_83db48657e2baf::t_d8a33f5a08e4a2 1493
+  s_83db48657e2baf::t_f5d6ea71294429 1563
+README.md
+  s_83db48657e2baf::t_dbbe91f3fd52dc 579-594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f56dd2a8661d74a3bdb23277a230dfc08f7b0f03",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
