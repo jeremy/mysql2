@@ -1,0 +1,34 @@
+ext/mysql2/result.h
+  s_83db48657e2baf::t_7bc37afd121fe6 22-26
+ext/mysql2/result.c
+  s_83db48657e2baf::t_8a271088ddd2d6 378
+  s_83db48657e2baf::t_25a99a83a2f207 327
+  s_83db48657e2baf::t_1a32402c25de93 1066-1068
+  s_83db48657e2baf::t_dd5f69070d40fd 802-804
+  s_83db48657e2baf::t_7f1ccc90d7868e 8-20
+  s_83db48657e2baf::t_9d94656f28a42c 551-574,576
+  s_83db48657e2baf::t_7db5fbc03722b6 1687-1692
+  s_83db48657e2baf::t_c5d39b15c0df90 70-73
+  s_83db48657e2baf::t_7ca13689b903be 1634-1636
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_5d12a54a66be3d 924-926
+  s_83db48657e2baf::t_9320661b3a6b0c 884
+  s_83db48657e2baf::t_43bea6591e2082 870-877,888,906-923,927-1038
+  s_83db48657e2baf::t_1090d774d20718 878-883,885-887,889-905
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ff5355ce24f03f155c757fa87d0d7185385379ed",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
