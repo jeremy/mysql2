@@ -1,0 +1,30 @@
+ext/mysql2/result.h
+  s_83db48657e2baf::t_9337fac1f578d3 61
+  s_83db48657e2baf::t_a07e78ed091299 15-38
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_7e021ade0a1a68 247,253-263,265-269
+  s_83db48657e2baf::t_a9d25fa167426b 221-246,248-252,264,270-290
+spec/mysql2/statement_spec.rb
+  s_83db48657e2baf::t_08241d56781a91 228-236
+ext/mysql2/result.c
+  s_83db48657e2baf::t_887dc5272064c7 1570
+  s_83db48657e2baf::t_fb6e841d4f1c48 1697-1700
+  s_83db48657e2baf::t_e5733c1e7561c3 1609-1610
+  s_83db48657e2baf::t_18713d0a90c0f5 1483-1484,1486,1497-1512,1514-1535,1537-1569,1571-1577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "040514ed54565103298145128ecdda8e0b4a49b3",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
