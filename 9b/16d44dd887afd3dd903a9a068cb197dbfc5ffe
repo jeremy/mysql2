@@ -25,6 +25,7 @@ ext/mysql2/result.c
   s_83db48657e2baf::t_7730cbfeab7b52 359,362,368,373-394
   s_83db48657e2baf::t_91dca74a69a7aa 1222-1224,1232-1233,1236-1239,1241-1247,1249-1253,1261
   s_83db48657e2baf::t_fbdc5056aa369d 1225-1231,1234-1235,1248
+  s_c44e1468859747::t_ff93dfbab5c57e 1240
 ext/mysql2/result.h
   s_83db48657e2baf::t_7bc37afd121fe6 61-65
 spec/mysql2/statement_spec.rb
@@ -43,6 +44,14 @@ spec/mysql2/statement_spec.rb
         "model": "claude-fable-5"
       },
       "human_author": null
+    },
+    "s_c44e1468859747": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52705fa5-dbc4-4f03-9ed3-bac90e613a01",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
     }
   }
 }
