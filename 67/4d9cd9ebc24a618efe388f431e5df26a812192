@@ -1,0 +1,54 @@
+ext/mysql2/result.h
+  s_83db48657e2baf::t_7bc37afd121fe6 37-41
+  s_83db48657e2baf::t_edfc6be615ff13 7-18
+  s_83db48657e2baf::t_d3bf4ded0669c3 42-47
+ext/mysql2/result.c
+  s_83db48657e2baf::t_8a271088ddd2d6 384
+  s_83db48657e2baf::t_25a99a83a2f207 333
+  s_83db48657e2baf::t_1a32402c25de93 1138-1140
+  s_83db48657e2baf::t_dd5f69070d40fd 874-876
+  s_83db48657e2baf::t_7f1ccc90d7868e 10-22
+  s_83db48657e2baf::t_9d94656f28a42c 576-599,601
+  s_83db48657e2baf::t_7db5fbc03722b6 1817-1822
+  s_83db48657e2baf::t_c5d39b15c0df90 72-75
+  s_83db48657e2baf::t_7ca13689b903be 1716-1718
+  s_83db48657e2baf::t_b46ab3d0f7bc9f 549-568
+  s_83db48657e2baf::t_293f1a1b7fe356 1610-1619
+  s_83db48657e2baf::t_369e6dd16bfcd8 86,88
+  s_83db48657e2baf::t_fd640647a224ee 1088,1185,1362
+  s_83db48657e2baf::t_4509a3924a4ac2 1854-1862
+  s_83db48657e2baf::t_74c9920c5b7f7b 1912
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_5d12a54a66be3d 1030-1032
+  s_83db48657e2baf::t_9320661b3a6b0c 990
+  s_83db48657e2baf::t_43bea6591e2082 976-983,994,1012-1029,1033-1144
+  s_83db48657e2baf::t_1090d774d20718 984-989,991-993,995-1011
+  s_83db48657e2baf::t_3382ba9f72e0bc 1183-1184
+  s_83db48657e2baf::t_83cc6d708fa94c 1145-1182,1185-1236,1240-1242
+  s_83db48657e2baf::t_e2a50145a09084 1237-1239
+ext/mysql2/statement.c
+  s_83db48657e2baf::t_ba961717c618c7 381-400
+README.md
+  s_83db48657e2baf::t_1e9d172a921aa8 579-594
+spec/mysql2/statement_spec.rb
+  s_83db48657e2baf::t_351d350f8032f0 743-765,775-789
+  s_83db48657e2baf::t_e7af0fe8aebfb4 766-774
+ext/mysql2/client.c
+  s_83db48657e2baf::t_12de8e1cd25129 1093-1097
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "674d9cd9ebc24a618efe388f431e5df26a812192",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
