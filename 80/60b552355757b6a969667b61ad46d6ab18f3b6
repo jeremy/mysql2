@@ -1,0 +1,19 @@
+ext/mysql2/result.c
+  s_c44e1468859747::t_86b5f08b6c5521 337-338,340-344,346-349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8060b552355757b6a969667b61ad46d6ab18f3b6",
+  "prompts": {},
+  "sessions": {
+    "s_c44e1468859747": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52705fa5-dbc4-4f03-9ed3-bac90e613a01",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
