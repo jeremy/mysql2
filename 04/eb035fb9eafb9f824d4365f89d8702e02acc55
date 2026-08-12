@@ -23,6 +23,7 @@ ext/mysql2/result.c
   s_83db48657e2baf::t_74c9920c5b7f7b 2030
   s_c44e1468859747::t_5295d1ce5c1c60 87
   s_c44e1468859747::t_e9dfcf30088909 1680-1689
+  s_c44e1468859747::t_c825738bc7128e 1240,1690
 ext/mysql2/result.h
   s_83db48657e2baf::t_7bc37afd121fe6 61-65
   s_83db48657e2baf::t_edfc6be615ff13 7-18
