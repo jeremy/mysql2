@@ -1,0 +1,63 @@
+spec/mysql2/result_spec.rb
+  s_83db48657e2baf::t_43bea6591e2082 1121-1128,1139,1157-1174,1178-1289
+  s_83db48657e2baf::t_1090d774d20718 1129-1134,1136-1138,1140-1156
+  s_83db48657e2baf::t_9320661b3a6b0c 1135
+  s_83db48657e2baf::t_5d12a54a66be3d 1175-1177
+  s_83db48657e2baf::t_3382ba9f72e0bc 1328-1329
+  s_83db48657e2baf::t_83cc6d708fa94c 1290-1327,1330-1381,1385-1387
+  s_83db48657e2baf::t_e2a50145a09084 1382-1384
+ext/mysql2/result.c
+  s_83db48657e2baf::t_9d94656f28a42c 612-635,637
+  s_83db48657e2baf::t_8a271088ddd2d6 420
+  s_83db48657e2baf::t_7ca13689b903be 1830-1832
+  s_83db48657e2baf::t_25a99a83a2f207 333
+  s_83db48657e2baf::t_7db5fbc03722b6 1931-1936
+  s_83db48657e2baf::t_1a32402c25de93 1182-1184
+  s_83db48657e2baf::t_dd5f69070d40fd 910-912
+  s_83db48657e2baf::t_7f1ccc90d7868e 10-22
+  s_83db48657e2baf::t_c5d39b15c0df90 72-75
+  s_83db48657e2baf::t_b46ab3d0f7bc9f 585-604
+  s_83db48657e2baf::t_369e6dd16bfcd8 86,88
+  s_83db48657e2baf::t_fd640647a224ee 1132,1435
+  s_83db48657e2baf::t_4509a3924a4ac2 1972-1980
+  s_83db48657e2baf::t_74c9920c5b7f7b 2030
+  s_c44e1468859747::t_5295d1ce5c1c60 87
+  s_c44e1468859747::t_e9dfcf30088909 1680-1689
+ext/mysql2/result.h
+  s_83db48657e2baf::t_7bc37afd121fe6 61-65
+  s_83db48657e2baf::t_edfc6be615ff13 7-18
+  s_83db48657e2baf::t_d3bf4ded0669c3 66-71
+ext/mysql2/statement.c
+  s_83db48657e2baf::t_ba961717c618c7 381-400
+README.md
+  s_83db48657e2baf::t_1e9d172a921aa8 579-594
+spec/mysql2/statement_spec.rb
+  s_83db48657e2baf::t_351d350f8032f0 815-837,847-861
+  s_83db48657e2baf::t_e7af0fe8aebfb4 838-846
+ext/mysql2/client.c
+  s_83db48657e2baf::t_12de8e1cd25129 1093-1097
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "04eb035fb9eafb9f824d4365f89d8702e02acc55",
+  "prompts": {},
+  "sessions": {
+    "s_83db48657e2baf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "471f2f50-9e7f-4971-9823-74da3717db8a",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_c44e1468859747": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52705fa5-dbc4-4f03-9ed3-bac90e613a01",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
