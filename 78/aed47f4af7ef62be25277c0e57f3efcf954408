@@ -1,0 +1,30 @@
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_7f6d60b283e485 182-187
+  s_5d6a3adf661e9f::t_9195d3ca98979a 177-181,188,193,195-203,205-206
+  s_5d6a3adf661e9f::t_24c92a82322091 189-192,194
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_e5736028584317 220-225
+  s_5d6a3adf661e9f::t_f26967aabca7ec 231,233-239,245
+  s_5d6a3adf661e9f::t_7305dbc63b4c39 219,226-230,232,240-244,246-250,256-260,266-287
+  s_5d6a3adf661e9f::t_77ed6f3dfc87a2 251-255,261-265
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_7f8764c97d60d6 42
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_f7d3c7ceddc3a0 2184-2194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "78aed47f4af7ef62be25277c0e57f3efcf954408",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
