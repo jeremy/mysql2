@@ -1,0 +1,51 @@
+ext/mysql2/extconf.rb
+  s_5d6a3adf661e9f::t_a0fe19a8860957 52-54
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_431789dd9c88a0 582
+  s_5d6a3adf661e9f::t_a894cf2afd4aeb 1627-1629
+  s_5d6a3adf661e9f::t_953b0cb9d09dd0 925-930
+  s_5d6a3adf661e9f::t_b6fdad54b3c1e4 965
+  s_5d6a3adf661e9f::t_d66515841431ca 1158-1162
+  s_5d6a3adf661e9f::t_9425ab33e7f223 910
+  s_5d6a3adf661e9f::t_bcad79179841d5 826-837
+  s_5d6a3adf661e9f::t_01e00ba3f63073 9
+ext/mysql2/client.h
+  s_5d6a3adf661e9f::t_028e5772c0eef2 67-71
+  s_5d6a3adf661e9f::t_c80a9ca3228c9d 95-98
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_d99d177c52e00c 1968-1986,1988
+  s_5d6a3adf661e9f::t_bac936c71e3161 2077
+  s_5d6a3adf661e9f::t_9e44c4f5b3b615 2022
+ext/mysql2/statement.c
+  s_5d6a3adf661e9f::t_00df6e797e7715 350
+  s_5d6a3adf661e9f::t_be05d42a8c822e 574-575,582-586
+  s_5d6a3adf661e9f::t_a92729fcf41193 623
+  s_5d6a3adf661e9f::t_d0349458866188 587
+spec/mysql2/result_spec.rb
+  s_5d6a3adf661e9f::t_e29940b6c9fd0e 491-501,506,509-519,521-527
+  s_5d6a3adf661e9f::t_d3e5f45d52b03c 502-505,507-508
+  s_5d6a3adf661e9f::t_9b0d78cb37f364 520
+ext/mysql2/result.h
+  s_5d6a3adf661e9f::t_df45738fa8b176 5-7
+  s_5d6a3adf661e9f::t_f02dc79c6b5729 74-78
+spec/mysql2/statement_spec.rb
+  s_5d6a3adf661e9f::t_d8256b76a2dd67 74-84
+README.md
+  s_5d6a3adf661e9f::t_ea53a655500956 634-646
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1909842f6d232b080747c334bdb86c796ce82cdd",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
