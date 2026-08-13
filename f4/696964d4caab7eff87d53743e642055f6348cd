@@ -1,0 +1,24 @@
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_fbc1aaacb5bf4e 348-353,356
+spec/mysql2/result_spec.rb
+  s_5d6a3adf661e9f::t_a9d3b0352280a8 183-190,193-209
+  s_5d6a3adf661e9f::t_1aa5cc31c4100c 191-192
+ext/mysql2/extconf.rb
+  s_5d6a3adf661e9f::t_39728252e494a7 37-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f4696964d4caab7eff87d53743e642055f6348cd",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
