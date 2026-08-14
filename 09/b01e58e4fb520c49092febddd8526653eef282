@@ -1,0 +1,31 @@
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_f7d3c7ceddc3a0 2345-2355
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_7305dbc63b4c39 250,260-264,279,283,286,290,298-302,310-313,319-323,329-350
+  s_5d6a3adf661e9f::t_77ed6f3dfc87a2 265,291,293,296,303,305,308,314-318,324-328
+  s_5d6a3adf661e9f::t_6c5ff868903adc 280-281,284,287-288,292,294-295,306-307
+  s_5d6a3adf661e9f::t_f26967aabca7ec 266-278,282,285,289,297,304,309
+  s_5d6a3adf661e9f::t_e5736028584317 251-259
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_7f8764c97d60d6 42
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_24c92a82322091 192-195,197
+  s_5d6a3adf661e9f::t_7f6d60b283e485 183-190
+  s_5d6a3adf661e9f::t_9195d3ca98979a 177-182,191,196,198-206,208-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "09b01e58e4fb520c49092febddd8526653eef282",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
