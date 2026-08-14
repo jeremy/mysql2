@@ -1,0 +1,37 @@
+ext/mysql2/statement.c
+  s_5d6a3adf661e9f::t_3b1af8b3d2d1a2 869
+  s_5d6a3adf661e9f::t_44487e20851c23 48
+  s_5d6a3adf661e9f::t_6dfdf113f74286 78-164
+  s_5d6a3adf661e9f::t_f88c8af20fef95 189
+  s_5d6a3adf661e9f::t_968bfaacb74e51 29
+  s_5d6a3adf661e9f::t_cfba0eda4bd8d5 258-266
+  s_5d6a3adf661e9f::t_d8c2f2aa0d4866 731-737
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_55c8199c7ab2fa 158-168
+  s_5d6a3adf661e9f::t_c21cd18655e198 448
+  s_5d6a3adf661e9f::t_92bfd34709634b 186-191,193-203,205-208,211-212,215-235
+  s_5d6a3adf661e9f::t_b794a5ec2bf1c8 2259-2260,2262-2299
+ext/mysql2/statement.h
+  s_5d6a3adf661e9f::t_bba8f82a033a16 4-18,25-44
+ext/mysql2/result.h
+  s_5d6a3adf661e9f::t_74eb38c456f3a7 93-103
+spec/mysql2/statement_spec.rb
+  s_5d6a3adf661e9f::t_ca22dd3c0c2cb8 624-626,628-631
+  s_5d6a3adf661e9f::t_f1b6c3adae6370 558-623,627,632-657
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "652566ea004094b0e93d81eb291be3736a0bb986",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
