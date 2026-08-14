@@ -1,0 +1,29 @@
+spec/mysql2/statement_spec.rb
+  s_5d6a3adf661e9f::t_c894d3cd382fda 432-433,435,441-486
+  s_5d6a3adf661e9f::t_b774f4872b4fe8 487
+  s_5d6a3adf661e9f::t_adfd7d20bc5c03 977-980
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_f3831d644db49b 1116-1128,1140-1144,1147,1151-1156
+  s_5d6a3adf661e9f::t_c7f845953c6554 1130-1138
+  s_5d6a3adf661e9f::t_077ef0ab32e043 947-951
+  s_5d6a3adf661e9f::t_0c8bd2834f5aac 1157
+  s_5d6a3adf661e9f::t_94c56122f9ce06 1015-1022
+  s_5d6a3adf661e9f::t_e8dc41820c0851 1071-1078
+  s_5d6a3adf661e9f::t_d794cb6942cad0 1158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e5f09ecb9a2f8693f59bb54a7e64736b982bdd6f",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
