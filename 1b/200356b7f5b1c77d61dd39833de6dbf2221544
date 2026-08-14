@@ -1,0 +1,33 @@
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_dff77714c23fb5 629-636
+spec/mysql2/statement_spec.rb
+  s_5d6a3adf661e9f::t_bad44fcf8cc5ec 410-507
+README.md
+  s_5d6a3adf661e9f::t_9ea17e2c04c616 741-753
+ext/mysql2/statement.c
+  s_5d6a3adf661e9f::t_0dc4b1b3c62f06 839
+  s_5d6a3adf661e9f::t_89391838174f42 7
+  s_5d6a3adf661e9f::t_5f46345c8a4db9 402-430
+  s_5d6a3adf661e9f::t_046b15419abd6a 600-606
+  s_5d6a3adf661e9f::t_ce05d68096e50c 352
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_2cae03aaf977ce 2229-2237
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_168c8cfc1c2a2d 1165-1172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1b200356b7f5b1c77d61dd39833de6dbf2221544",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
