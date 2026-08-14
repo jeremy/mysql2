@@ -22,6 +22,9 @@ ext/mysql2/client.c
   s_5d6a3adf661e9f::t_b6fdad54b3c1e4 966
   s_5d6a3adf661e9f::t_431789dd9c88a0 602
   s_5d6a3adf661e9f::t_bcad79179841d5 846-857
+  s_5d6a3adf661e9f::t_109c8fde5f3dca 983,998-1004
+  s_5d6a3adf661e9f::t_8da4761f35d303 926-928
+  s_5d6a3adf661e9f::t_9f88f331c9b469 1789-1791,1793
 README.md
   s_5d6a3adf661e9f::t_ea53a655500956 718-730
 ext/mysql2/result.c
