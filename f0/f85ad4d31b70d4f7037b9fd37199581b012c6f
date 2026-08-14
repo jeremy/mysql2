@@ -1,0 +1,45 @@
+ext/mysql2/result.h
+  s_5d6a3adf661e9f::t_b694c851418939 33-35
+  s_5d6a3adf661e9f::t_0b436b2c5fd088 89-93
+spec/mysql2/result_spec.rb
+  s_5d6a3adf661e9f::t_91da80fc58a4a8 1880-1883
+  s_5d6a3adf661e9f::t_5f7f89494f4085 2156-2192
+  s_5d6a3adf661e9f::t_934a617f79c4d9 1891-1894
+  s_5d6a3adf661e9f::t_b4fc9c58f18e28 1819-1879,1884-1890,1895-1896,1901-1905,1910-1912
+  s_5d6a3adf661e9f::t_0f0e6715efda32 1647,1662-1663,1666,1668
+  s_6ca2efa164d38f::t_dbc0ed7591c28a 1713,1721
+  s_5d6a3adf661e9f::t_f28def2ed92beb 2193-2196
+  s_5d6a3adf661e9f::t_5824ea4760996d 1677-1678
+  s_5d6a3adf661e9f::t_7afcad2e8bbd59 1695-1698
+  s_5d6a3adf661e9f::t_5a7d979b325997 1897-1900,1906-1909
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_bc0c3e481aaf4b 1139-1150,1152
+  s_5d6a3adf661e9f::t_77407694c53d6f 1231-1263,1272-1326
+  s_5d6a3adf661e9f::t_c7da038c1b57bb 148-168
+  s_5d6a3adf661e9f::t_4a1009c67b4b27 201
+  s_5d6a3adf661e9f::t_979cde49e309eb 954,964,967-1043
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f0f85ad4d31b70d4f7037b9fd37199581b012c6f",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_6ca2efa164d38f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a9937932ad5ee6911",
+        "model": "unknown"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
