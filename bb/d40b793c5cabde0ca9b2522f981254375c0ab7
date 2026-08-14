@@ -1,0 +1,26 @@
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_7f8764c97d60d6 42
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_9386244fd27fa3 286
+  s_5d6a3adf661e9f::t_77ed6f3dfc87a2 253-257,263-267
+  s_5d6a3adf661e9f::t_7305dbc63b4c39 250-252,258-262,268-285,287-289
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_9195d3ca98979a 177-180,185,187-195,197-198
+  s_5d6a3adf661e9f::t_24c92a82322091 181-184,186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bbd40b793c5cabde0ca9b2522f981254375c0ab7",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
