@@ -1,0 +1,81 @@
+.github/workflows/build-fedora.yml
+  s_5d6a3adf661e9f::t_01fdc0eb2a3812 24
+  s_5d6a3adf661e9f::t_1650eb04f84344 23
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_a48c91f82a3e6b 42
+README.md
+  s_33e9d583af84b1::t_3857327fd95bed 405
+  s_5d6a3adf661e9f::t_4f77ae8b7d2fb1 397-400
+  s_5d6a3adf661e9f::t_a94a7916cfd6bc 334-371,375-396,401-404
+.github/workflows/build-ubuntu.yml
+  s_5d6a3adf661e9f::t_62fbeae0b05a9b 63
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_aa5e2c7f94f695 2776-2791
+  s_5d6a3adf661e9f::t_eb555b51987fab 292
+  s_5d6a3adf661e9f::t_93ff89bbd16db7 832-833
+  s_5d6a3adf661e9f::t_e0e9fdebd54253 375-381,386-390,392-398
+  s_5d6a3adf661e9f::t_d3b2cadf7037a9 244-247,249-259
+  s_5d6a3adf661e9f::t_b55b74a66e91d0 940-970,973-990,996-998,1000-1008,1010-1049
+  s_5d6a3adf661e9f::t_43e95b4e2c6f6a 1148,1156
+  s_5d6a3adf661e9f::t_34e996d86cf6bf 146-213,218,220-221,223-243,248,260-277,283-291,293-304,306-320
+  s_5d6a3adf661e9f::t_dbcca685754c37 345,347-358
+  s_5d6a3adf661e9f::t_1be7cb03b0adfc 79-86
+  s_5d6a3adf661e9f::t_062c00e4506fb8 214-217,219,222
+  s_5d6a3adf661e9f::t_832d37b9f3e4ea 971-972
+  s_5d6a3adf661e9f::t_b94facb6003b8d 1135-1147,1149-1155,1157-1177
+  s_5d6a3adf661e9f::t_bdb2280391da90 144-145
+  s_5d6a3adf661e9f::t_273ca1786b364b 991-995,999,1009
+  s_5d6a3adf661e9f::t_55ad6ef6bc109f 2544-2545
+  s_5d6a3adf661e9f::t_778a3deba92db8 370-373
+  s_5d6a3adf661e9f::t_8e458508bb87a1 305
+  s_5d6a3adf661e9f::t_5224ddf61b79c7 2757-2775
+  s_5d6a3adf661e9f::t_700c428ac02f9b 278-282
+  s_5d6a3adf661e9f::t_1f4894f85d3cb8 2526
+  s_5d6a3adf661e9f::t_f2c04c788e409b 360-366,374,382-385,391,399-411
+spec/spec_helper.rb
+  s_5d6a3adf661e9f::t_5e66c86b710d07 120-134
+ext/mysql2/extconf.rb
+  s_5d6a3adf661e9f::t_fca30a4d0bc8f4 209-211,217-219
+  s_5d6a3adf661e9f::t_25b2f6b7856e8d 191-204,223-235,247-256,260
+  s_5d6a3adf661e9f::t_d3f74861980725 236-243,245-246,257,259
+  s_5d6a3adf661e9f::t_d9d36165120e9d 244,258
+  s_5d6a3adf661e9f::t_cbfa24620234b2 205-208,212-216,220-222
+.github/workflows/build-macos.yml
+  s_5d6a3adf661e9f::t_c5434a6626827d 29
+ext/mysql2/client.h
+  s_5d6a3adf661e9f::t_dde2f779e511bb 67-75
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_401809c86ac533 424-465,468,471-480
+  s_5d6a3adf661e9f::t_3595a912a869d9 466-467,469-470
+  s_5d6a3adf661e9f::t_cbe95ca28885bd 182-186
+  s_5d6a3adf661e9f::t_29f432f685d589 202-208,212-214
+  s_5d6a3adf661e9f::t_d88b1a25717470 260-361,369-381
+  s_5d6a3adf661e9f::t_507c55a07a89a8 362-368
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_91bc100f0ba293 53
+  s_5d6a3adf661e9f::t_2dfec15c75667d 121-152
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5a7627367b5cce4aa5dcad8c635d9757c5c8b4ed",
+  "prompts": {},
+  "sessions": {
+    "s_33e9d583af84b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37dfa9a1-4709-4a0e-ba6e-2e227fd441ca",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    },
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
