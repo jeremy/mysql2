@@ -1,0 +1,29 @@
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_e16c8d73a54aff 2175
+  s_5d6a3adf661e9f::t_47a9c45e909ba0 381-394
+  s_5d6a3adf661e9f::t_ab8ec8591964e5 905
+  s_5d6a3adf661e9f::t_d01b2fac558ecb 858-904,906-910
+  s_5d6a3adf661e9f::t_16eaadb0feb394 1069
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_2f7a2f8de3eed1 608-609,617
+  s_5d6a3adf661e9f::t_d8252dd663425c 512-521,532-607,610-616,618-622
+  s_5d6a3adf661e9f::t_8b041fc4eb3833 522-531
+README.md
+  s_5d6a3adf661e9f::t_0e38a8b16f6318 455-480
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "cb37ef6b520496a0b9df5deca8acd2a2dddc8c7b",
+  "prompts": {},
+  "sessions": {
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
