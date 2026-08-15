@@ -1,0 +1,64 @@
+ext/mysql2/extconf.rb
+  s_5d6a3adf661e9f::t_d3f74861980725 220-227,229-230,241,243
+  s_5d6a3adf661e9f::t_25b2f6b7856e8d 191-219,231-240,244
+  s_5d6a3adf661e9f::t_d9d36165120e9d 228,242
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_a48c91f82a3e6b 42
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_d88b1a25717470 248-349,357-369
+  s_5d6a3adf661e9f::t_507c55a07a89a8 350-356
+  s_5d6a3adf661e9f::t_401809c86ac533 412-465
+README.md
+  s_5d6a3adf661e9f::t_a94a7916cfd6bc 334-371,375-396,401-404
+  s_5d6a3adf661e9f::t_4f77ae8b7d2fb1 397-400
+  s_33e9d583af84b1::t_3857327fd95bed 405
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_2dfec15c75667d 121-152
+  s_5d6a3adf661e9f::t_91bc100f0ba293 53
+ext/mysql2/client.h
+  s_5d6a3adf661e9f::t_dde2f779e511bb 67-75
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_34e996d86cf6bf 146-305
+  s_5d6a3adf661e9f::t_1f4894f85d3cb8 2483
+  s_5d6a3adf661e9f::t_b94facb6003b8d 1093-1134
+  s_5d6a3adf661e9f::t_1be7cb03b0adfc 79-86
+  s_5d6a3adf661e9f::t_bdb2280391da90 144-145
+  s_5d6a3adf661e9f::t_93ff89bbd16db7 795-796
+  s_5d6a3adf661e9f::t_55ad6ef6bc109f 2501-2502
+  s_5d6a3adf661e9f::t_f2c04c788e409b 338-344,348-374
+  s_5d6a3adf661e9f::t_b55b74a66e91d0 903-1007
+  s_5d6a3adf661e9f::t_5224ddf61b79c7 2714-2732
+  s_5d6a3adf661e9f::t_aa5e2c7f94f695 2733-2748
+spec/spec_helper.rb
+  s_5d6a3adf661e9f::t_5e66c86b710d07 120-134
+.github/workflows/build-fedora.yml
+  s_5d6a3adf661e9f::t_1650eb04f84344 23
+.github/workflows/build-macos.yml
+  s_5d6a3adf661e9f::t_c5434a6626827d 29
+.github/workflows/build-ubuntu.yml
+  s_5d6a3adf661e9f::t_62fbeae0b05a9b 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "233c29ac133ff44641f69ed0a363d9a903b46fe2",
+  "prompts": {},
+  "sessions": {
+    "s_33e9d583af84b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37dfa9a1-4709-4a0e-ba6e-2e227fd441ca",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    },
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
