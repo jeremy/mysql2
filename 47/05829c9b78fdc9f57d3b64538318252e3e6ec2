@@ -1,0 +1,55 @@
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_bca36b32093b8d 2954
+  s_5d6a3adf661e9f::t_ce9d814f089b78 1702-1775
+  s_5d6a3adf661e9f::t_5726ebf9225119 21
+  s_5d6a3adf661e9f::t_b98e5fa4daab76 2942-2944
+  s_5d6a3adf661e9f::t_9e7249b4b77dbe 1618-1641
+  s_5d6a3adf661e9f::t_71127beab44474 1897-1901
+  s_3cf17a476b4cef::t_5d7d562b3a4fcc 1701
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_d95c76a56f45cb 120
+  s_5d6a3adf661e9f::t_4b70de6c58e471 310-311
+  s_5d6a3adf661e9f::t_2449382dbd127d 95
+  s_5d6a3adf661e9f::t_d017d90c9201f2 233,235-250
+  s_5d6a3adf661e9f::t_53ed7b39e9a5da 119,288-309,312-313,327-337
+  s_5d6a3adf661e9f::t_4413f4d616852e 314
+  s_5d6a3adf661e9f::t_c80598b39d1b78 315-326
+  s_5d6a3adf661e9f::t_8d1df5974885d9 19-20
+  s_5d6a3adf661e9f::t_be26186ae29d27 96,100-118
+.rubocop_todo.yml
+  s_3cf17a476b4cef::t_07394f1627da2d 32
+  s_5d6a3adf661e9f::t_9e7f3349ebf694 26,52
+README.md
+  s_5d6a3adf661e9f::t_96e141210770d9 308-358
+  s_5d6a3adf661e9f::t_e99d27e416eba4 281-282
+ext/mysql2/client.h
+  s_5d6a3adf661e9f::t_8e69a79c8a24a4 12-20
+spec/mysql2/client_spec.rb
+  s_5d6a3adf661e9f::t_240bf5ad65d46e 1257-1321,1341-1358,1364-1371,1380-1416
+  s_5d6a3adf661e9f::t_d15b16058a8f37 1322-1340
+  s_5d6a3adf661e9f::t_30e55a5599cb44 1359-1363,1372-1379
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4705829c9b78fdc9f57d3b64538318252e3e6ec2",
+  "prompts": {},
+  "sessions": {
+    "s_3cf17a476b4cef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8931117e-e8c3-43a7-aa27-3f0b6268345b",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
