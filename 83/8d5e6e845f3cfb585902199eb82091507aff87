@@ -1,0 +1,50 @@
+ext/mysql2/result.c
+  s_5d6a3adf661e9f::t_c21cd18655e198 463
+  s_3cf17a476b4cef::t_b3d294de8effbb 2523-2528,2534
+  s_5d6a3adf661e9f::t_92bfd34709634b 207-211,229-245,248-250
+  s_5d6a3adf661e9f::t_55c8199c7ab2fa 179-189
+  s_3cf17a476b4cef::t_65318c001a9eef 212-228
+  s_5d6a3adf661e9f::t_b794a5ec2bf1c8 2508-2509,2511-2522,2529-2533,2535-2553
+ext/mysql2/statement.h
+  s_5d6a3adf661e9f::t_bba8f82a033a16 4-18,25-44
+  s_3cf17a476b4cef::t_70ad204c40b7f6 45-52
+spec/mysql2/statement_spec.rb
+  s_5d6a3adf661e9f::t_ca22dd3c0c2cb8 700-702,704-707
+  s_5d6a3adf661e9f::t_f1b6c3adae6370 623-679,691-699,703,708-733
+  s_3cf17a476b4cef::t_9268d25a2d6ce1 680-690
+ext/mysql2/result.h
+  s_5d6a3adf661e9f::t_74eb38c456f3a7 105-115
+ext/mysql2/statement.c
+  s_5d6a3adf661e9f::t_d8c2f2aa0d4866 749-755
+  s_5d6a3adf661e9f::t_3b1af8b3d2d1a2 887
+  s_5d6a3adf661e9f::t_968bfaacb74e51 29
+  s_3cf17a476b4cef::t_5bf6741a560676 267
+  s_5d6a3adf661e9f::t_cfba0eda4bd8d5 258-266
+  s_5d6a3adf661e9f::t_44487e20851c23 48
+  s_5d6a3adf661e9f::t_6dfdf113f74286 78-164
+  s_5d6a3adf661e9f::t_f88c8af20fef95 189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "838d5e6e845f3cfb585902199eb82091507aff87",
+  "prompts": {},
+  "sessions": {
+    "s_3cf17a476b4cef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8931117e-e8c3-43a7-aa27-3f0b6268345b",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
