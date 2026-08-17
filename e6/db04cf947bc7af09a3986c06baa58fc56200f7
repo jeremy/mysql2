@@ -1,0 +1,19 @@
+spec/mysql2/client_spec.rb
+  s_41f1fd9f1cc6a1::t_3bf20eec65796d 527-542
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e6db04cf947bc7af09a3986c06baa58fc56200f7",
+  "prompts": {},
+  "sessions": {
+    "s_41f1fd9f1cc6a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4431f432-94b3-43c9-af2c-1e7a992ed07e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
