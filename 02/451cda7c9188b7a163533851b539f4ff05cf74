@@ -1,0 +1,116 @@
+README.md
+  s_b94becf14d5340::t_7a29e70d5170c0 353-359
+  s_5d6a3adf661e9f::t_a94a7916cfd6bc 334-352,360-373,377-398,403-406
+  s_5d6a3adf661e9f::t_4f77ae8b7d2fb1 399-402
+  s_33e9d583af84b1::t_3857327fd95bed 407
+.github/workflows/build-fedora.yml
+  s_5d6a3adf661e9f::t_1650eb04f84344 23
+  s_5d6a3adf661e9f::t_01fdc0eb2a3812 24
+lib/mysql2/client.rb
+  s_5d6a3adf661e9f::t_2dfec15c75667d 121-123,131-135,137,147-148
+  s_b94becf14d5340::t_61a038f06ca457 136,138-146
+  s_5d6a3adf661e9f::t_91bc100f0ba293 53
+  s_b94becf14d5340::t_7ac507b7617c07 124-130
+ext/mysql2/client.h
+  s_5d6a3adf661e9f::t_dde2f779e511bb 72-80
+.rubocop_todo.yml
+  s_5d6a3adf661e9f::t_a48c91f82a3e6b 42
+spec/spec_helper.rb
+  s_5d6a3adf661e9f::t_5e66c86b710d07 120-134
+spec/mysql2/client_spec.rb
+  s_b94becf14d5340::t_bbc02616260227 475
+  s_5d6a3adf661e9f::t_507c55a07a89a8 376-382
+  s_5d6a3adf661e9f::t_d88b1a25717470 260-294,296-299,301,316,318-329,331-375,383-395
+  s_5d6a3adf661e9f::t_401809c86ac533 438-451,453-459,461-463,466,469-474,476-478
+  s_b94becf14d5340::t_b1608a9860fb01 295,300,302-315
+  s_5d6a3adf661e9f::t_cbe95ca28885bd 182-186
+  s_5d6a3adf661e9f::t_29f432f685d589 202-208,212-214
+  s_b94becf14d5340::t_67bef9a0d16883 330
+  s_b94becf14d5340::t_546092d6cc51b5 460
+  s_5d6a3adf661e9f::t_3595a912a869d9 464-465,467-468
+  s_b94becf14d5340::t_7c52b331fe3a42 452
+  s_c41efe086da079::t_7d5a6969306ee9 317
+.github/workflows/build-macos.yml
+  s_5d6a3adf661e9f::t_c5434a6626827d 29
+ext/mysql2/client.c
+  s_5d6a3adf661e9f::t_1be7cb03b0adfc 80-87
+  s_5d6a3adf661e9f::t_8e458508bb87a1 307
+  s_b94becf14d5340::t_00b72d5c3bd02e 396
+  s_b94becf14d5340::t_fab5b5fa487b93 1098
+  s_5d6a3adf661e9f::t_b55b74a66e91d0 995-1025,1028-1045,1051-1053,1055-1063,1065-1083,1085-1097,1099-1104
+  s_5d6a3adf661e9f::t_55ad6ef6bc109f 2817-2818
+  s_b94becf14d5340::t_0c3a015f563f83 248-249
+  s_b94becf14d5340::t_7b5571c7b9884e 1084
+  s_5d6a3adf661e9f::t_d3b2cadf7037a9 246-247,251-261
+  s_b94becf14d5340::t_bf093896b7bd34 20
+  s_5d6a3adf661e9f::t_e0e9fdebd54253 377-383,388,390-392,394-395,397-400
+  s_5d6a3adf661e9f::t_700c428ac02f9b 280-284
+  s_5d6a3adf661e9f::t_5224ddf61b79c7 3030-3048
+  s_5d6a3adf661e9f::t_f2c04c788e409b 362-368,376,384-387,393,401-404,406-413
+  s_5d6a3adf661e9f::t_34e996d86cf6bf 148-215,220,222-223,225-245,250,262-279,285-293,295-306,308-322
+  s_5d6a3adf661e9f::t_dbcca685754c37 347,349-360
+  s_b94becf14d5340::t_ba7cb9368c2fce 389
+  s_5d6a3adf661e9f::t_273ca1786b364b 1046-1050,1054,1064
+  s_5d6a3adf661e9f::t_bdb2280391da90 146-147
+  s_5d6a3adf661e9f::t_aa5e2c7f94f695 3049-3064
+  s_5d6a3adf661e9f::t_1f4894f85d3cb8 2799
+  s_5d6a3adf661e9f::t_832d37b9f3e4ea 1026-1027
+  s_5d6a3adf661e9f::t_eb555b51987fab 294
+  s_5d6a3adf661e9f::t_778a3deba92db8 372-375
+  s_5d6a3adf661e9f::t_b94facb6003b8d 1196-1208,1210-1216,1218-1238
+  s_5d6a3adf661e9f::t_93ff89bbd16db7 885-886
+  s_5d6a3adf661e9f::t_43e95b4e2c6f6a 1209,1217
+  s_b94becf14d5340::t_0f580b4cf37271 405
+  s_5d6a3adf661e9f::t_062c00e4506fb8 216-219,221,224
+ext/mysql2/extconf.rb
+  s_5d6a3adf661e9f::t_fca30a4d0bc8f4 212-214,220-222
+  s_5d6a3adf661e9f::t_d9d36165120e9d 247,261
+  s_5d6a3adf661e9f::t_25b2f6b7856e8d 194-207,226-238,250-259,263
+  s_5d6a3adf661e9f::t_cbfa24620234b2 208-211,215-219,223-225
+  s_5d6a3adf661e9f::t_d3f74861980725 239-246,248-249,260,262
+.github/workflows/build-ubuntu.yml
+  s_5d6a3adf661e9f::t_62fbeae0b05a9b 63
+ext/mysql2/mysql2_ext.c
+  s_b94becf14d5340::t_64e0fb68ff5b4b 3,13-14
+  s_c41efe086da079::t_6da031b06f3055 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "02451cda7c9188b7a163533851b539f4ff05cf74",
+  "prompts": {},
+  "sessions": {
+    "s_33e9d583af84b1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "37dfa9a1-4709-4a0e-ba6e-2e227fd441ca",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    },
+    "s_5d6a3adf661e9f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6314a9a2-ab6a-47b4-9c63-5872f834b5cf",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_b94becf14d5340": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "58cc8038-68e9-42c6-9a98-ce27785fa221",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    },
+    "s_c41efe086da079": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0630c7a-9c17-4033-b49f-87afc1315b14",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
