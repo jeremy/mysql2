@@ -1,5 +1,7 @@
 README.md
   s_41f1fd9f1cc6a1::t_61bde35ac6531b 103-108
+  s_dafddf844ab191::t_4ec7a150061d52 419-425
+  s_dafddf844ab191::t_4ce17181024e3f 393
 ext/mysql2/client.c
   s_41f1fd9f1cc6a1::t_19d3be17c685d5 204-289
   s_41f1fd9f1cc6a1::t_6c5cca9a6212c8 3203-3212
@@ -25,6 +27,14 @@ ext/mysql2/extconf.rb
       "agent_id": {
         "tool": "claude",
         "id": "4431f432-94b3-43c9-af2c-1e7a992ed07e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    },
+    "s_dafddf844ab191": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d9f1982-5c8b-43db-87cb-19366e0a17e3",
         "model": "claude-fable-5"
       },
       "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
