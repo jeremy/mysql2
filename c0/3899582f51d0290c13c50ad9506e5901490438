@@ -1,0 +1,30 @@
+ext/mysql2/extconf.rb
+  s_0e6cc44da8739c::t_c147f8da96696e 274
+ext/mysql2/client.c
+  s_0e6cc44da8739c::t_17e25735c3d954 2919
+  s_0e6cc44da8739c::t_84677d929b22bc 2269-2357
+spec/mysql2/client_spec.rb
+  s_0e6cc44da8739c::t_af2eebd3613b31 2036-2082,2085-2110
+  s_0e6cc44da8739c::t_08641d53d3c96a 2083-2084
+ext/mysql2/statement.c
+  s_0e6cc44da8739c::t_795b6a6c5dddae 931-935
+  s_0e6cc44da8739c::t_99ad4c3eccc9a2 929-930,936-954
+ext/mysql2/statement.h
+  s_0e6cc44da8739c::t_d985196d189d6f 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c03899582f51d0290c13c50ad9506e5901490438",
+  "prompts": {},
+  "sessions": {
+    "s_0e6cc44da8739c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d75ee3b5-60c2-4b56-b2b3-78b9b3092c86",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
