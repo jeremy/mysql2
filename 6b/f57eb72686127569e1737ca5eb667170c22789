@@ -1,0 +1,29 @@
+README.md
+  s_0e6cc44da8739c::t_d1cedbbc4bbc8f 306-354
+lib/mysql2/client.rb
+  s_0e6cc44da8739c::t_96aa35ac348c55 128
+  s_0e6cc44da8739c::t_7467e39f6b62ea 270-274,276-279
+  s_0e6cc44da8739c::t_130bc60f21e81f 275
+  s_0e6cc44da8739c::t_2cf8cbc388970c 45-49,54-61
+spec/mysql2/client_spec.rb
+  s_0e6cc44da8739c::t_f147eaf4206138 2245-2262,2268-2330
+  s_0e6cc44da8739c::t_b5a6c38aea96a5 2263-2267
+.rubocop_todo.yml
+  s_0e6cc44da8739c::t_30b34864328a37 26,42,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6bf57eb72686127569e1737ca5eb667170c22789",
+  "prompts": {},
+  "sessions": {
+    "s_0e6cc44da8739c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d75ee3b5-60c2-4b56-b2b3-78b9b3092c86",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
