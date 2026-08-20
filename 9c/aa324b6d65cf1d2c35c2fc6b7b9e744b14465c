@@ -1,0 +1,52 @@
+ext/mysql2/result.c
+  s_0e6cc44da8739c::t_1cd51d36a88466 1427,1748
+  s_0e6cc44da8739c::t_077554cce24e5e 98-104
+  s_0e6cc44da8739c::t_6feedb336aa246 73-82,85
+  s_0e6cc44da8739c::t_81fca7d41ea254 1973,1980
+  s_0e6cc44da8739c::t_fd74b149b1efe9 2236-2237
+  s_0e6cc44da8739c::t_c87f246d98e9f4 2215
+  s_0e6cc44da8739c::t_ae0f6c1ec84fd6 1630,1637
+  s_0e6cc44da8739c::t_afcc0a34fbd31a 1422,1743
+  s_0e6cc44da8739c::t_690ea90da18d81 115
+  s_0e6cc44da8739c::t_ad7ac4f4cfa714 1391
+  s_0e6cc44da8739c::t_4f29706bf92d43 2139
+  s_0e6cc44da8739c::t_2c18940d1700d3 2365-2378
+  s_0e6cc44da8739c::t_99d3da9547a79a 2715
+  s_0e6cc44da8739c::t_1c28ee15a05fe2 1698
+  s_0e6cc44da8739c::t_db1c5576319b88 1416,1737,1967
+  s_0e6cc44da8739c::t_37260cacd7a52d 2424
+  s_0e6cc44da8739c::t_bf02c26089b179 2353
+  s_0e6cc44da8739c::t_bd343b32ee0656 2445
+  s_0e6cc44da8739c::t_39be29edabea34 1212-1241
+  s_0e6cc44da8739c::t_60f2006c7f25ca 1405,1426,1726,1747
+  s_0e6cc44da8739c::t_3dba60637ad17f 2269
+  s_0e6cc44da8739c::t_593d319fc0a1f0 1406,1727
+  s_0e6cc44da8739c::t_557fa53c6d9ea5 2278,2288-2297
+  s_0e6cc44da8739c::t_fd731261e8eea6 1266
+  s_0e6cc44da8739c::t_5c8c1a58bf5edb 2298
+lib/mysql2/client.rb
+  s_0e6cc44da8739c::t_0d85a8d4b16dea 7
+ext/mysql2/result.h
+  s_0e6cc44da8739c::t_04093397961052 43
+spec/mysql2/result_spec.rb
+  s_0e6cc44da8739c::t_f77f5dc903c740 350-351
+  s_0e6cc44da8739c::t_ce4dcb2b200a4c 261-349,352-371
+README.md
+  s_0e6cc44da8739c::t_df5b1e09a56dab 706-724
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9caa324b6d65cf1d2c35c2fc6b7b9e744b14465c",
+  "prompts": {},
+  "sessions": {
+    "s_0e6cc44da8739c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d75ee3b5-60c2-4b56-b2b3-78b9b3092c86",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
